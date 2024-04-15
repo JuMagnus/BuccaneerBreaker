@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\buccaneerbreaker\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|c:\\users\\teamrandi\\documents\\github\\buccaneerbreaker\\buccaneerbreaker\\buccaneerbreaker\\scenes\\scenegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\scenes\\scenegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\services\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\buccaneerbreaker\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\buccaneerbreaker\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4CEC7B2-56EE-4E48-9755-729EA27F5D74}|BuccaneerBreaker\\BuccaneerBreaker.csproj|solutionrelative:buccaneerbreaker\\sprites\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -122,23 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Level3.json",
-              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Levels\\Level3.json",
-              "RelativeDocumentMoniker": "BuccaneerBreaker\\Levels\\Level3.json",
-              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Levels\\Level3.json",
-              "RelativeToolTip": "BuccaneerBreaker\\Levels\\Level3.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-14T16:23:34.436Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Level4.json",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Levels\\Level4.json",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Levels\\Level4.json",
@@ -162,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "SceneManager.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\SceneManager.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\SceneManager.cs",
@@ -174,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "InputsManager.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\InputsManager.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\InputsManager.cs",
@@ -186,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AssetsManager.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\AssetsManager.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\AssetsManager.cs",
@@ -210,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SceneGame.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneGame.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneGame.cs",
@@ -223,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SceneWin.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneWin.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneWin.cs",
@@ -235,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LevelsManager.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\LevelsManager.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\LevelsManager.cs",
@@ -247,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "PaddleTypeManager.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Services\\PaddleTypeManager.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Services\\PaddleTypeManager.cs",
@@ -259,7 +247,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Main.cs",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Main.cs",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Main.cs",
+              "RelativeToolTip": "BuccaneerBreaker\\Main.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAACIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T22:58:17.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level3.json",
+              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Levels\\Level3.json",
+              "RelativeDocumentMoniker": "BuccaneerBreaker\\Levels\\Level3.json",
+              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Levels\\Level3.json",
+              "RelativeToolTip": "BuccaneerBreaker\\Levels\\Level3.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T16:23:34.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "SceneGameOver.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneGameOver.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneGameOver.cs",
@@ -271,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SceneMenu.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneMenu.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneMenu.cs",
@@ -283,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SceneLevelSelection.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneLevelSelection.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneLevelSelection.cs",
@@ -307,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Button.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Sprites\\Button.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Sprites\\Button.cs",
@@ -331,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "SceneChoosePaddle.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Scenes\\SceneChoosePaddle.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Scenes\\SceneChoosePaddle.cs",
@@ -343,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Ball.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Sprites\\Ball.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Sprites\\Ball.cs",
@@ -355,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Level_Template.json",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Levels\\Level_Template.json",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Levels\\Level_Template.json",
@@ -367,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Delegate.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Utils\\Delegate.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Utils\\Delegate.cs",
@@ -379,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DrawUtils.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Utils\\DrawUtils.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Utils\\DrawUtils.cs",
@@ -391,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Brick.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Sprites\\Brick.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Sprites\\Brick.cs",
@@ -403,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CannonBall.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Sprites\\CannonBall.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Sprites\\CannonBall.cs",
@@ -415,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Paddle.cs",
               "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Sprites\\Paddle.cs",
               "RelativeDocumentMoniker": "BuccaneerBreaker\\Sprites\\Paddle.cs",
@@ -424,18 +437,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T23:21:04.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Main.cs",
-              "RelativeDocumentMoniker": "BuccaneerBreaker\\Main.cs",
-              "ToolTip": "C:\\Users\\TeamRandi\\Documents\\GitHub\\BuccaneerBreaker\\BuccaneerBreaker\\BuccaneerBreaker\\Main.cs",
-              "RelativeToolTip": "BuccaneerBreaker\\Main.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAkwGgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T22:58:17.261Z"
             },
             {
               "$type": "Document",

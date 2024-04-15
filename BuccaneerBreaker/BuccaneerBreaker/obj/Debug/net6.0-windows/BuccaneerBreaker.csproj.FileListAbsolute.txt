@@ -267,3 +267,4 @@ C:\Users\TeamRandi\Documents\GitHub\BuccaneerBreaker\BuccaneerBreaker\BuccaneerB
 C:\Users\TeamRandi\Documents\GitHub\BuccaneerBreaker\BuccaneerBreaker\BuccaneerBreaker\obj\Debug\net6.0-windows\BuccaneerBreaker.pdb
 C:\Users\TeamRandi\Documents\GitHub\BuccaneerBreaker\BuccaneerBreaker\BuccaneerBreaker\obj\Debug\net6.0-windows\BuccaneerBreaker.genruntimeconfig.cache
 C:\Users\TeamRandi\Documents\GitHub\BuccaneerBreaker\BuccaneerBreaker\BuccaneerBreaker\obj\Debug\net6.0-windows\ref\BuccaneerBreaker.dll
+C:\Users\TeamRandi\Documents\GitHub\BuccaneerBreaker\BuccaneerBreaker\BuccaneerBreaker\obj\Debug\net6.0-windows\BuccaneerBreaker.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuccaneerBreaker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb56fa315d49a44183d0be78c7cce9476a9fc61")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuccaneerBreaker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuccaneerBreaker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
